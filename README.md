@@ -13,7 +13,7 @@
 **MENTOR**: NEELA SANTOSH
 
 ---
-#OUTPUT
+# OUTPUT
 ---
 
 
